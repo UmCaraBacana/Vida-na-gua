@@ -1,0 +1,36 @@
+#divPT {
+    background-color: deepskyblue;
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    margin-top: 3%;
+}
+#divSC{
+    background-color: rgba(0, 140, 255, 0.87);
+    width: 90%; 
+    height: 500px;
+    margin: auto;
+    margin-top: 2%;
+}
+
+#corp1{
+    color: floralwhite;
+    text-align: center;
+}
+#titu {
+    color: floralwhite;
+    line-height: 290%;
+    text-align: center;
+}
+
+#body{
+    background:url(imagens/BackGP.jpg) center center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#img1{
+    margin-left: 38%;
+}
